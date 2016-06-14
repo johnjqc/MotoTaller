@@ -1,0 +1,6 @@
+{
+  "name": "TallerSmart",
+  "description": "Aplicacion Mobil con informacion sobre taller, gruas y mecanicos",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
